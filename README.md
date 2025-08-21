@@ -35,6 +35,8 @@ Her işlem kayıt altına alınır, böylece yanlışlık veya kayıp durumları
 Siz de hemen indirip kullanmaya başlayın, finansal özgürlüğünüzü elinize alın!
 
 📩 Destek & İletişim:
-📧 destek@hesapdefterim.com
+📧 destek@ertunix.com
 
-🌐 www.hesapdefterim.com
+🌐 www.ertunix.com/hesapdefterim
+🌐 www.ertunix.com
+
